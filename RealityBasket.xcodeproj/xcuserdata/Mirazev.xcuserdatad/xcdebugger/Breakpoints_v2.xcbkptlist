@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "18EFA734-1EFD-4AA5-842F-4DAA52903449"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BFFD81C1-50F1-45D7-A52E-E410D3824794"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "teste/ViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "ViewController"
+            landmarkType = "3">
+            <Locations>
+               <Location
+                  uuid = "BFFD81C1-50F1-45D7-A52E-E410D3824794 - ee38fac7f2d30001"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "teste.ViewController.arView.getter : Swift.Optional&lt;RealityKit.ARView&gt;"
+                  moduleName = "teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mirazev/Desktop/teste/teste/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "BFFD81C1-50F1-45D7-A52E-E410D3824794 - d9c9d9587fe6710d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "teste.ViewController.arView.setter : Swift.Optional&lt;RealityKit.ARView&gt;"
+                  moduleName = "teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mirazev/Desktop/teste/teste/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "108">
+               </Location>
+               <Location
+                  uuid = "BFFD81C1-50F1-45D7-A52E-E410D3824794 - 5b1c85cb472f543c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "teste.ViewController.arView.modify : Swift.Optional&lt;RealityKit.ARView&gt;"
+                  moduleName = "teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mirazev/Desktop/teste/teste/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "0">
+               </Location>
+               <Location
+                  uuid = "BFFD81C1-50F1-45D7-A52E-E410D3824794 - 8bb8db44629e5586"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "teste.ViewController.arView.modify : Swift.Optional&lt;RealityKit.ARView&gt; with unmangled suffix &quot;.resume.0&quot;"
+                  moduleName = "teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mirazev/Desktop/teste/teste/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "16">
+               </Location>
+               <Location
+                  uuid = "BFFD81C1-50F1-45D7-A52E-E410D3824794 - be7f4d33ce130540"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "teste.ViewController.init(nibName: Swift.Optional&lt;Swift.String&gt;, bundle: Swift.Optional&lt;__C.NSBundle&gt;) -&gt; teste.ViewController"
+                  moduleName = "teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mirazev/Desktop/teste/teste/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "88">
+               </Location>
+               <Location
+                  uuid = "BFFD81C1-50F1-45D7-A52E-E410D3824794 - 643f2150e682a5f7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "teste.ViewController.init(coder: __C.NSCoder) -&gt; Swift.Optional&lt;teste.ViewController&gt;"
+                  moduleName = "teste"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Mirazev/Desktop/teste/teste/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
